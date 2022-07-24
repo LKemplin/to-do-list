@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.tasks {
+  border: 2px solid black;
+  background-color: lightgray;
+  text-align: left;
+  margin: 0 auto;
+  margin-top: 10px;
+  max-width: 500px;
+
+}
+
+.btn {
+  background-color: lightgreen;
+  height: 20px;
+}
