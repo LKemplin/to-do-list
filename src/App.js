@@ -6,7 +6,7 @@ function App() {
   const [taskList, setTaskList] = useState([
     {
       id: 1,
-      task: "finish this damn assignment",
+      task: "finish this assignment",
       completed: false
     }
   ])
